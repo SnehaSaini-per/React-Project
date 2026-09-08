@@ -26,7 +26,7 @@ const Home = () => {
     <div className="home">
 
       <div className="hero" >
-        <h1 style={{color:"green"}}>Explore The World</h1>
+        <h1 >Explore The World</h1>
         <p>Discover beautiful places with us</p>
       </div>
 
